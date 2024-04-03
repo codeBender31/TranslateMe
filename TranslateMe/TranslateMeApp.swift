@@ -3,7 +3,7 @@
 //  TranslateMe
 //
 //  Created by Bender on 4/3/24.
-//
+//Hello !
 
 import SwiftUI
 import FirebaseCore // <-- Import Firebase
