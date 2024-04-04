@@ -4,16 +4,16 @@ Submitted by: **Abel Hernandez**
 
 **Name of your app** is an app that ... translates user input using the MyMemory API. Stores previous answers in the Firebase Database.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users open the app to a TranslationMe home page with a place to enter a word, phrase or sentence, a button to translate, and another field that should initially be empty
-- [ ] When users tap translate, the word written in the upper field translates in the lower field. The requirement is only that you can translate from one language to another.
-- [ ] A history of translations can be stored (in a scroll view in the same screen, or a new screen)
-- [ ] The history of translations can be erased
+- [x] Users open the app to a TranslationMe home page with a place to enter a word, phrase or sentence, a button to translate, and another field that should initially be empty
+- [x] When users tap translate, the word written in the upper field translates in the lower field. The requirement is only that you can translate from one language to another.
+- [x] A history of translations can be stored (in a scroll view in the same screen, or a new screen)
+- [x] The history of translations can be erased
  
 The following **optional** features are implemented:
 
@@ -28,9 +28,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ![Alt Text] ()
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
