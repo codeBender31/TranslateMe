@@ -15,7 +15,7 @@ struct TranslateMeApp: App {
       }
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TranslationMeHomeView()
         }
     }
 }

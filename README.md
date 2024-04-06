@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Alt Text] ()
+![Alt Text](https://github.com/codeBender31/TranslateMe/blob/main/TranslateMe.gif)
 
 ## Notes
 
